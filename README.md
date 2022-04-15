@@ -12,6 +12,7 @@
 |Day 3|April 11, 2022| Started the Udemy web developer bootcamp. Pretty much a bunch of setting up and getting organized.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 4|April 12, 2022| Finished Section 3 and 4 HTML. Learned about HTML entities :smirk: , sup, sub, div, span elements, emmet vscode tip | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 5|April 13, 2022| Learning Forms and Tables. th, tr, td, thead, tbody. Checked out all the different form input types, id, placeholder. Starting on the label element. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 6|April 14, 2022| Learning form action, labels, buttons, radio and checkbox, name attribute, hijacking reddit, value attribute  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
