@@ -14,6 +14,7 @@
 |Day 5|April 13, 2022| Learning Forms and Tables. th, tr, td, thead, tbody. Checked out all the different form input types, id, placeholder. Starting on the label element. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 6|April 14, 2022| Learning form action, labels, buttons, radio and checkbox, name attribute, hijacking reddit, value attribute  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 7|April 15, 2022| Learning form validation, built a marathon registration form based on instructor's requirements. Accomplished without code along. Finished the HTML section. On to CSS tomorrow  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 8|April 16, 2022| Learning about colors in css. Actually know what I am looking at when it comes to rgb and hexadecimal. Fonts, property types. Starting on selectors.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
