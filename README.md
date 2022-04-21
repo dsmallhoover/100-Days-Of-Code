@@ -17,6 +17,7 @@
 |Day 8|April 16, 2022| Learning about colors in css. Actually know what I am looking at when it comes to rgb and hexadecimal. Fonts, property types. Starting on selectors.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 9|April 17, 2022| :rabbit: All about CSS selectors today. ID, class, attribute, combinators, pseudo classes, and when to use them. I also updated the coffee calculator repo slightly.  | [Coffee Calculator Repo](https://github.com/dsmallhoover/Coffee-Calculator)|
 |Day 10|April 18, 2022| On to pseudo elements, cascade, and specificity. Learning some chrome dev tools. With a strikethrough, that means it lost in the specificity battle. Also, you can edit in Inspect to see what it looks like and then just hit refresh to go back to OG.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 11|April 20, 2022| Didn't get to coding yesterday. I missed it! Finishing up specifictity today and touched on inheritance. Starting on the CSS Box Model. Took some time to play around with border-radius and understanding box-sizing. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
