@@ -20,6 +20,7 @@
 |Day 11|April 20, 2022| Didn't get to coding yesterday. I missed it! Finishing up specifictity today and touched on inheritance. Starting on the CSS Box Model. Took some time to play around with border-radius and understanding box-sizing. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 12|April 21, 2022| Finishing up on the main box model properties (width, height, border, padding, and margin). Learned about the Display Property, inline-block, CSS units.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 13|April 22, 2022| Fixed a bug in the Coffee Calculator and reviewed some of its code. Went into the position property in the Udemy course. Need some practice on this.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 14|April 23, 2022| All about transitions! Learning the four things that we can specify with property name, duration, timing function, and delay. On to transform. Covered rotate, scale, translate, and skew.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
