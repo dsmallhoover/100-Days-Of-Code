@@ -22,6 +22,7 @@
 |Day 13|April 22, 2022| Fixed a bug in the Coffee Calculator and reviewed some of its code. Went into the position property in the Udemy course. Need some practice on this.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 14|April 23, 2022| All about transitions! Learning the four things that we can specify with property name, duration, timing function, and delay. On to transform. Covered rotate, scale, translate, and skew.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 15|May 2, 2022| Back from vacation :camping: . Excited to get back to it. Reviewing flashcards and finishing Section 9.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 16|May 3, 2022| Finished Section 9 codealong. Moving on to flexbox section! Wrapping my head around main axis and cross axis and how flex-direction provides the orientation. Justify-content, align-items, and flex-wrap.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
