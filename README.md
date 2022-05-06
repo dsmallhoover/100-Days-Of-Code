@@ -24,7 +24,7 @@
 |Day 15|May 2, 2022| Back from vacation :camping: . Excited to get back to it. Reviewing flashcards and finishing Section 9.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 16|May 3, 2022| Finished Section 9 codealong. Moving on to flexbox section! Wrapping my head around main axis and cross axis and how flex-direction provides the orientation. Justify-content, align-items, and flex-wrap.| [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 17|May 4, 2022 :rocket: :space_invader: | Continuing to learn responsive CSS and flexbox. Flex-basis, grow, and shrink. Flex direction seems pretty useful to stack elements when changing screen size. Flexbox definitely requires more hands-on learning so I hope to add this into current projects. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
-|Day 1|May 5, 2022 | Media Queries to start! Finished section 10. Started on the Pricing Panel Project codealong. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 18|May 5, 2022 | Media Queries to start! Finished section 10. Started on the Pricing Panel Project codealong. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
