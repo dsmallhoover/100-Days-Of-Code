@@ -26,6 +26,7 @@
 |Day 17|May 4, 2022 :rocket: :space_invader: | Continuing to learn responsive CSS and flexbox. Flex-basis, grow, and shrink. Flex direction seems pretty useful to stack elements when changing screen size. Flexbox definitely requires more hands-on learning so I hope to add this into current projects. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 18|May 5, 2022 | Media Queries to start! Finished section 10. Started on the Pricing Panel Project codealong. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 19-20|May 7, 2022 | Took the day off yesterday so doing two hours today. Continue to work with the pricing panel project. Moved on to Bootstrap! Had little exposure of putting it into the Quinn Countdown, but excited to get a better grasp. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 21|May 8, 2022 | More Bootstrap this morning. Moving through it quicker as their documentation explains a lot for when I need to use this framework. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
