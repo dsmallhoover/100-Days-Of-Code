@@ -27,6 +27,7 @@
 |Day 18|May 5, 2022 | Media Queries to start! Finished section 10. Started on the Pricing Panel Project codealong. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 19-20|May 7, 2022 | Took the day off yesterday so doing two hours today. Continue to work with the pricing panel project. Moved on to Bootstrap! Had little exposure of putting it into the Quinn Countdown, but excited to get a better grasp. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 21|May 8, 2022 | More Bootstrap this morning. Moving through it quicker as their documentation explains a lot for when I need to use this framework. Checking out Figma today too. I think I am going to get back to building simple websites once I get done with Bootstrap. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 22|May 9, 2022 | More Bootstrap. Taking on Bootstrap Grid which is helping me a lot. Explored some website templates to get some design ideas for a bakery website I am building. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
