@@ -29,6 +29,7 @@
 |Day 21|May 8, 2022 | More Bootstrap this morning. Moving through it quicker as their documentation explains a lot for when I need to use this framework. Checking out Figma today too. I think I am going to get back to building simple websites once I get done with Bootstrap. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 22|May 9, 2022 | More Bootstrap. Taking on Bootstrap Grid which is helping me a lot. Explored some website templates to get some design ideas for a bakery website I am building. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 23|May 10, 2022 | Learning responsive Bootstrap grids, img-fluid, utilities for align-items and justify-content. Started on Bootstrap forms. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 24|May 11, 2022 | Bootstrap forms, icons and navbars.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
