@@ -31,6 +31,7 @@
 |Day 23|May 10, 2022 | Learning responsive Bootstrap grids, img-fluid, utilities for align-items and justify-content. Started on Bootstrap forms. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 24|May 11, 2022 | Bootstrap forms, icons and navbars.  | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 25|May 13, 2022 | Skipped yesterday. Will most likely do an extra hour this weekend. Today, we are covering some other useful Bootstrap utilities. Finished the Bootstrap section. Time to start on an actual project! | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 26|May 15, 2022 | Working on the bakery website while watching the Candy Project. Today I created a hover effect for the nav and did some other styling for it. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
