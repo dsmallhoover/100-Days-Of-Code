@@ -33,6 +33,7 @@
 |Day 25|May 13, 2022 | Skipped yesterday. Will most likely do an extra hour this weekend. Today, we are covering some other useful Bootstrap utilities. Finished the Bootstrap section. Time to start on an actual project! | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 26|May 15, 2022 | Working on the bakery website while watching the Candy Project. Today I created a hover effect for the nav and did some other styling for it. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 27|May 16, 2022 | Added some text and images. 2 column design with stacking for particular screen size. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 28|May 17, 2022 | Added multiple sections and some styling. Getting stuck on the scroll effect for the navbar. Fresh eyes for tomorrow.| [Choux Patisserie Bootstrap Build](https://github.com/dsmallhoover/Choux-Patisserie-Mac)|
 
 ## Credits
 
