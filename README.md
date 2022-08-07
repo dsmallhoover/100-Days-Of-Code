@@ -38,6 +38,7 @@
 |Day 30|August 3, 2022 | I have been doing more work on the current projects I have. I wanted to deploy the coffee calculator and the bakery website, which I did. Now that the coding bootcamp is 40 days away, I need to focus more time on learning the fundamentals of JS so I can hit the ground running when it starts. We are on to JS heavy content with the Udemy course today. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 31|August 4, 2022 | Covered the String section. I have covered a lot of this before but it is good to get a refresher and I am moving through it quicker. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 |Day 32|August 5, 2022 | Starting on decision-making with JS. Comparison operators, if and logical statements. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
+|Day 33-34|August 6-7, 2022 | Still doing a section or 2 of the Javascript course. Went through arrays, object literals, nesting arrays and objects, and finishing up on the all important Loop section. | [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22553920#overview)|
 
 ## Credits
 
